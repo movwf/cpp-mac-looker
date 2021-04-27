@@ -11,4 +11,3 @@ and some love.. :heart_eyes:
 ## App Screens
 ![Main](./images/main.png)
 ![Vendor-Search](./images/vendor-search.png)
-![About](./images/about.png)
